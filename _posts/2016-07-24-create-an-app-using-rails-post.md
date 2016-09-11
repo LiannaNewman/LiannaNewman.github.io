@@ -25,6 +25,6 @@ $ cd example-app
 $ atom .
 {% endhighlight %}
 
-Note: I use the text editor Atom.
+Note: I used the text editor Atom.
 
 I’ll get into database usage and the rails server in the next post, but you this is how you get started with a new app.

@@ -1,15 +1,14 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title:  "Welcome to My Actualize Blog!"
+date:   2016-07-15
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+As I go through the [Actualize](http://actualize.co) coding bootcamp I'll blog about my experiences and recall new information I learned through these blog posts.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I welcome any questions, comments, and feedback.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I created this blog using Jekyll. You can find out more info about Jekyll and basic usage documentation at [jekyllrb.com](http://jekyllrb.com/).
+
+
+Note: This post was updated on September 10, 2016 to reflect the coding bootcamp name change: Anyone Can Learn To Code is now Actualize.
