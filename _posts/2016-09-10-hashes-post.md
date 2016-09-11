@@ -29,7 +29,7 @@ end
 
 On the 'edit.html.erb' view page, let's say the Wizard model has a first name and last name that we want to update:
 
-{% highlight  %}
+{% highlight ruby %}
   <%= form_tag("/wizards/#{@wizard.id}/edit}", method: "patch") do %>
   <div>
     <%= label_tag(:first_name) %>
